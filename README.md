@@ -3,9 +3,8 @@
 > **PromptWars Virtual by Google & Hack2Skill — Challenge 2**
 > An interactive AI assistant that helps users understand election processes in India and the USA.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Google%20Cloud%20Run-blue)](YOUR_CLOUD_RUN_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Google%20Cloud%20Run-blue)](https://election-guide-583470319869.asia-south1.run.app)
 [![Built with](https://img.shields.io/badge/Built%20with-React%20%2B%20Node.js-green)](https://reactjs.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ---
 
@@ -42,7 +41,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/electionguide-assistant.git
+git clone https://github.com/USERNAME/VoteWise-AI.git
 cd electionguide-assistant
 
 # 2. Install all dependencies (installs both server + client)
@@ -88,14 +87,14 @@ docker run -p 8080:8080 electionguide
 gcloud auth login
 
 # 2. Set your project
-gcloud config set project YOUR_PROJECT_ID
+gcloud config set project PROJECT_ID
 
 # 3. Build and push the container
-gcloud builds submit --tag gcr.io/YOUR_PROJECT_ID/electionguide
+gcloud builds submit --tag gcr.io/PROJECT_ID/electionguide
 
 # 4. Deploy to Cloud Run
 gcloud run deploy electionguide \
-  --image gcr.io/YOUR_PROJECT_ID/electionguide \
+  --image gcr.io/PROJECT_ID/electionguide \
   --platform managed \
   --region us-central1 \
   --allow-unauthenticated
@@ -142,18 +141,12 @@ electionguide/
 
 ## 📸 Screenshots
 
-*(Add screenshots of your deployed app here)*
+
 
 ---
 
 ## 👩‍💻 Author
 
-**Tanvi R Vernekar**  
+**Tanvi R**  
 B.Tech AI & Data Science, Panimalar Engineering College  
 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/rtanvi1604/VoteWise-AI.git)
-
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
