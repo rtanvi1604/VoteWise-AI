@@ -138,10 +138,33 @@ electionguide/
 6. **Key Fact Callouts** in each timeline step — memorable highlights for each phase
 
 ---
+## 📸 Application Screenshots
 
-## 📸 Screenshots
+### VoteWise AI - Home Page 
+![Dashboard](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FUI.png)
 
+### Election AI Guide - ChatBot
+![Chatbot](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FChatbot.png)
 
+### Indian Election Timeline
+![Timeline1](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FTimeline1.png)
+
+![Timeline2](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FTimeline2.png)
+- Each dropdown talks about the timeline and election period 
+
+### Frequently Asked Questions 
+![FAQ](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FFAQ.png)
+
+### General Election Quiz
+![Quiz1](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FQuiz1.png)
+
+![Quiz2](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FQuiz2.png)
+-Quiz score to know about your election knowledge with insights
+
+### India vs USA Election System 
+![Comparison1](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FComparison1.png)
+
+![Comparison2](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FComparison2.png)
 
 ---
 
