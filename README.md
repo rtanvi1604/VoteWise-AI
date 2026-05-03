@@ -182,4 +182,4 @@ electionguide/
 
 **Tanvi R**  
 B.Tech AI & Data Science, Panimalar Engineering College  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/rtanvi1604/VoteWise-AI.git)
+[LinkedIn](https://www.linkedin.com/posts/r-tanvi_virtualpromptwars-promptwars-googlefordevelopers-ugcPost-7456674273827532800-7zHs?utm_source=share&utm_medium=member_android&rcm=ACoAAEwcCLcB4bloZrp83NNsncc1g56m40emrtc)| [GitHub](https://github.com/rtanvi1604/VoteWise-AI.git)
