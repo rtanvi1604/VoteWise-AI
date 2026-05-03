@@ -1,0 +1,306 @@
+{
+  "countries": {
+    "India": {
+      "country": "India",
+      "electionId": "INDIA_LOK_SABHA",
+      "description": "India's general election (Lok Sabha) is the world's largest democratic exercise. Over 900 million eligible voters elect 543 members to the lower house of Parliament across multiple phases.",
+      "funFacts": [
+        "India uses over 5.5 million Electronic Voting Machines (EVMs) in each general election.",
+        "India's 2024 general election had over 968 million eligible voters — more than the entire population of Europe.",
+        "The Election Commission of India (ECI) was established in 1950, the year India became a Republic.",
+        "India's elections can span 4–7 phases across different states to manage the enormous scale.",
+        "The Lok Sabha has 543 elected seats; a party needs 272 to form a majority government."
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "🗓️ Announcement of Elections",
+          "description": "The Election Commission of India (ECI) announces the schedule, including voting dates, nomination deadlines, and counting dates. The moment the schedule is announced, the Model Code of Conduct (MCC) comes into effect, which restricts the ruling government from making policy announcements that could influence voters.",
+          "visualHint": "calendar",
+          "duration": "Day 1",
+          "keyFact": "The MCC activates automatically the moment the election schedule is announced."
+        },
+        {
+          "step": 2,
+          "title": "🗂️ Filing of Nominations",
+          "description": "Candidates from political parties and independents file nomination papers with the respective Returning Officer. Candidates must pay a security deposit (₹25,000 for Lok Sabha, refunded if they win more than 1/6th of valid votes). The ECI scrutinizes nominations and candidates can withdraw within a specified period.",
+          "visualHint": "file",
+          "duration": "Days 2–7",
+          "keyFact": "A candidate forfeits their deposit if they receive less than 1/6th of total valid votes cast."
+        },
+        {
+          "step": 3,
+          "title": "📢 Campaigning Phase",
+          "description": "Political parties and candidates campaign across the country through public rallies, TV advertisements, social media, and door-to-door outreach. The ECI strictly monitors spending (max ₹95 lakh per Lok Sabha candidate). A mandatory 48-hour 'campaign silence' period begins before voting day in that constituency.",
+          "visualHint": "megaphone",
+          "duration": "Days 7–25",
+          "keyFact": "Campaigning must stop 48 hours before polling begins in each constituency."
+        },
+        {
+          "step": 4,
+          "title": "🪪 Voter Preparation & Rolls",
+          "description": "The ECI finalizes the electoral rolls, issues Voter ID cards (EPIC — Elector's Photo Identity Card), and sets up polling booths nationwide. Every constituency has a dedicated polling booth within a reasonable distance of voters. Special provisions are made for elderly and differently-abled voters.",
+          "visualHint": "id-card",
+          "duration": "Ongoing",
+          "keyFact": "India has over 10.5 lakh (1.05 million) polling stations across the country."
+        },
+        {
+          "step": 5,
+          "title": "🗳️ Voting Day",
+          "description": "On polling day, voters visit their assigned booth and cast their vote using Electronic Voting Machines (EVMs). The VVPAT (Voter Verifiable Paper Audit Trail) machine simultaneously prints a paper slip showing the candidate voted for, which the voter can verify through a glass window for 7 seconds. Voters with disabilities get priority access.",
+          "visualHint": "ballot",
+          "duration": "Polling Days",
+          "keyFact": "The VVPAT slip automatically drops into a sealed box and is NOT taken by the voter — it's only for visual verification."
+        },
+        {
+          "step": 6,
+          "title": "🔒 EVM Sealing & Secure Storage",
+          "description": "After polling closes, EVMs are sealed in the presence of candidates' polling agents — representatives who monitor the process on behalf of their parties. The sealed machines are transported in secure convoys to strong rooms with 24/7 security until counting day. The security deposit EVMs in the presence of all stakeholders ensures tamper-proof storage.",
+          "visualHint": "lock",
+          "duration": "Post-polling",
+          "keyFact": "EVMs are stored in 'strong rooms' with central para-military forces and CCTV surveillance."
+        },
+        {
+          "step": 7,
+          "title": "📊 Vote Counting",
+          "description": "On counting day (usually set a few weeks after the last polling phase), EVMs are opened at designated counting centers. Votes are tallied constituency-by-constituency using Counting Agents from each party. The ECI publishes results in real-time on its official website and app. Recounting can be demanded if margins are very close.",
+          "visualHint": "chart",
+          "duration": "Counting Day",
+          "keyFact": "India's 2024 results were declared within 24 hours despite 543 constituencies."
+        },
+        {
+          "step": 8,
+          "title": "🏆 Declaration of Results",
+          "description": "The Returning Officer of each constituency officially declares the winner. A candidate wins with the highest number of valid votes (First Past the Post / FPTP system — no majority required). Results are formally notified in the official Gazette. Losing candidates may file election petitions in the High Court if they suspect malpractice.",
+          "visualHint": "trophy",
+          "duration": "Counting Day",
+          "keyFact": "India uses FPTP — the candidate with the most votes wins, even without an absolute majority."
+        },
+        {
+          "step": 9,
+          "title": "🏛️ Government Formation",
+          "description": "The party or coalition with 272+ seats (simple majority in 543-seat Lok Sabha) is invited by the President to form the government. The leader of the winning alliance is sworn in as Prime Minister. The PM then selects their Cabinet. The new government is formally constituted and begins its 5-year term.",
+          "visualHint": "government",
+          "duration": "Post-results",
+          "keyFact": "If no single party has a majority, multiple parties form a 'coalition government' by agreeing on a common minimum program."
+        }
+      ],
+      "faqs": [
+        {
+          "id": "faq1",
+          "question": "Who can vote in Indian elections?",
+          "answer": "Every citizen of India who is 18 years or older and whose name is on the electoral roll of their constituency can vote. NRIs (Non-Resident Indians) can also register as overseas voters. However, you must vote only in the constituency where you are registered — you cannot vote from any polling booth."
+        },
+        {
+          "id": "faq2",
+          "question": "What is the Model Code of Conduct (MCC)?",
+          "answer": "The MCC is a set of guidelines issued by the ECI to regulate the behavior of political parties and candidates once election dates are announced. It prohibits the ruling government from announcing new policy schemes, making populist announcements, or using government machinery for election purposes. It remains in force until the election process is complete."
+        },
+        {
+          "id": "faq3",
+          "question": "What is an EVM and VVPAT?",
+          "answer": "EVM (Electronic Voting Machine) is used to cast votes electronically. It has two units — a Control Unit with the polling officer and a Ballot Unit where the voter presses their chosen candidate's button. VVPAT (Voter Verifiable Paper Audit Trail) is an independent printer device attached to EVMs that prints a paper slip showing the candidate and party symbol after the vote is cast. The voter can see this slip for 7 seconds through a transparent window before it drops into a sealed compartment."
+        },
+        {
+          "id": "faq4",
+          "question": "How does the Electoral College work in US elections?",
+          "answer": "The US President is elected via the Electoral College, not a direct popular vote. Each state gets electors equal to its Congressional representation (senators + representatives). There are 538 total electoral votes, and a candidate needs 270 to win. Most states use a 'winner-take-all' system — the popular vote winner of that state gets all its electoral votes. This is why a candidate can win the presidency while losing the national popular vote."
+        },
+        {
+          "id": "faq5",
+          "question": "What is the difference between Lok Sabha and Rajya Sabha?",
+          "answer": "India has a bicameral Parliament. The Lok Sabha (House of the People) has 543 directly elected members who serve 5-year terms — this is what the general election determines. The Rajya Sabha (Council of States) has 245 members who are mostly elected by state legislative assemblies (not directly by voters) and serve staggered 6-year terms. The Prime Minister must command a majority in the Lok Sabha."
+        },
+        {
+          "id": "faq6",
+          "question": "How are votes counted — what is FPTP?",
+          "answer": "India uses the First Past the Post (FPTP) system. The candidate with the most votes in a constituency wins, even if they don't have an absolute majority (more than 50%). For example, if Candidate A gets 35%, B gets 33%, and C gets 32%, Candidate A wins. There are no runoffs or second rounds. This system is simple but can lead to a party winning a majority of seats with a minority of the national popular vote."
+        }
+      ]
+    },
+    "USA": {
+      "country": "United States",
+      "electionId": "USA_PRESIDENTIAL",
+      "description": "The US Presidential Election is held every four years. It is a complex, multi-stage process involving primaries, party conventions, the general election campaign, voting, and the Electoral College system.",
+      "funFacts": [
+        "The US Electoral College has 538 total electors — a candidate needs 270 to win.",
+        "Presidential elections are always held on the first Tuesday after the first Monday in November.",
+        "The US has two dominant parties: the Democratic Party (donkey symbol) and the Republican Party (elephant symbol).",
+        "The Electoral College was established by the US Constitution in 1787.",
+        "US voter turnout in the 2020 election was 66.8% — the highest in over a century."
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "🗓️ Primary Elections & Caucuses",
+          "description": "Each major party holds primary elections or caucuses in every state to determine who will be their presidential candidate. Voters choose among several candidates within their own party. Different states hold primaries at different times between January and June of the election year.",
+          "visualHint": "calendar",
+          "duration": "Jan–June of election year",
+          "keyFact": "Iowa and New Hampshire traditionally hold the first primary contests, giving them outsized influence."
+        },
+        {
+          "step": 2,
+          "title": "🏛️ Party Conventions",
+          "description": "Each party holds a National Convention where delegates (elected during primaries) officially nominate their presidential and vice-presidential candidates. The candidates formally accept their nominations and present their party's platform. These are typically held in July or August.",
+          "visualHint": "government",
+          "duration": "July–August",
+          "keyFact": "Delegates are bound to vote for the candidate they were elected to support on the first ballot."
+        },
+        {
+          "step": 3,
+          "title": "📢 General Election Campaigning",
+          "description": "The nominated candidates from all parties campaign across the country. Presidential debates are held (typically 3), allowing candidates to directly contrast their positions. Campaigns focus heavily on swing states — competitive states that could vote for either party. Super PACs can raise unlimited funds for independent campaign ads.",
+          "visualHint": "megaphone",
+          "duration": "August–November",
+          "keyFact": "Campaigns focus on 'swing states' like Pennsylvania, Michigan, Wisconsin, Arizona, Georgia, and Nevada."
+        },
+        {
+          "step": 4,
+          "title": "🪪 Voter Registration",
+          "description": "Unlike many countries, the US requires voters to proactively register before voting. Registration deadlines vary by state (some allow same-day registration). Voters must be US citizens, 18 years or older, and meet their state's requirements. Some states automatically register eligible citizens; others require manual registration.",
+          "visualHint": "id-card",
+          "duration": "Varies by state",
+          "keyFact": "Some states require registration weeks before Election Day, while others allow same-day registration."
+        },
+        {
+          "step": 5,
+          "title": "🗳️ Election Day Voting",
+          "description": "Election Day is the first Tuesday after the first Monday in November. Voters cast ballots for their preferred presidential candidate. However, they are technically voting for a slate of Electors who are pledged to that candidate. Methods vary by state — paper ballots, optical scan machines, or direct-recording electronic machines. Many states allow early voting and mail-in ballots.",
+          "visualHint": "ballot",
+          "duration": "First Tuesday in November",
+          "keyFact": "Election Day is not a federal holiday, so many Americans vote before work or during lunch breaks."
+        },
+        {
+          "step": 6,
+          "title": "📊 Counting & Certification",
+          "description": "After polls close, votes are counted by local election officials. This can take days in states with large mail-in ballot volumes. Each state certifies its results, typically within weeks. Losing candidates can request recounts. Courts may be asked to resolve disputes. By mid-December, all states must certify their results.",
+          "visualHint": "chart",
+          "duration": "November–December",
+          "keyFact": "Mail-in ballots can take days to count — this is why results aren't always known election night."
+        },
+        {
+          "step": 7,
+          "title": "🏆 Electoral College Vote",
+          "description": "In mid-December, Electors from each state meet in their state capitals and cast their official votes for President and Vice President. A candidate needs 270 of 538 electoral votes to win. Most states are 'winner-take-all' — all electors go to the popular vote winner. Maine and Nebraska use a proportional system.",
+          "visualHint": "trophy",
+          "duration": "Mid-December",
+          "keyFact": "270 electoral votes are needed to win. If no candidate reaches 270, the House of Representatives chooses the President."
+        },
+        {
+          "step": 8,
+          "title": "📋 Congressional Certification",
+          "description": "In early January, a joint session of Congress meets to certify the Electoral College results. The Vice President presides over the ceremony. States' electoral votes are counted and the winner is officially certified. This is a largely ceremonial process, though objections can be raised and debated.",
+          "visualHint": "file",
+          "duration": "Early January",
+          "keyFact": "The 2021 certification on January 6th was disrupted by the Capitol insurrection — a historic and unprecedented event."
+        },
+        {
+          "step": 9,
+          "title": "🏛️ Inauguration",
+          "description": "On January 20th (Inauguration Day), the newly elected President is sworn into office on the steps of the US Capitol. The President takes the oath of office administered by the Chief Justice of the Supreme Court, places their hand on a Bible, and swears to 'preserve, protect and defend the Constitution of the United States.'",
+          "visualHint": "government",
+          "duration": "January 20th",
+          "keyFact": "January 20th was set as Inauguration Day by the 20th Amendment to the Constitution, ratified in 1933."
+        }
+      ],
+      "faqs": [
+        {
+          "id": "faq1",
+          "question": "Who can vote in US elections?",
+          "answer": "US citizens who are 18 years or older and registered to vote in their state can vote. Non-citizens cannot vote in federal elections. Voter ID requirements vary by state — some require photo ID, others don't. Some states restrict voting rights for people with certain felony convictions, though policies vary widely."
+        },
+        {
+          "id": "faq2",
+          "question": "What is the Electoral College?",
+          "answer": "The Electoral College is the system by which the US President is elected. Each state gets electors equal to its total Congressional representation (House seats + 2 Senate seats). The total is 538. A candidate needs 270 electoral votes to win. Most states use winner-take-all — the popular vote winner gets all the state's electors. California has the most (54) and Wyoming the fewest (3)."
+        },
+        {
+          "id": "faq3",
+          "question": "What is a swing state?",
+          "answer": "Swing states (also called battleground states or purple states) are states where neither party has a consistent majority. These states are highly competitive and can go to either the Republican or Democratic candidate. Campaigns spend enormous resources in swing states. Recent swing states include Pennsylvania, Michigan, Wisconsin, Arizona, Georgia, Nevada, and North Carolina."
+        },
+        {
+          "id": "faq4",
+          "question": "Can a candidate win the presidency without winning the popular vote?",
+          "answer": "Yes — this has happened five times in US history (most recently in 2000 and 2016). Because most states use winner-take-all for electoral votes, a candidate can win the presidency by narrowly winning several large swing states while losing the national popular vote by a large margin. This is a feature (or bug) of the Electoral College system."
+        },
+        {
+          "id": "faq5",
+          "question": "What is a primary election?",
+          "answer": "Primary elections are held within each political party to determine who will be that party's candidate in the general election. Registered party members vote for their preferred candidate. Delegates are allocated based on primary results and formally nominate the winner at the party convention. Open primaries allow voters of any party (or no party) to participate; closed primaries are restricted to registered party members."
+        },
+        {
+          "id": "faq6",
+          "question": "How does the US differ from India's election system?",
+          "answer": "Key differences: (1) India uses FPTP for direct election of Parliament members; the US uses the Electoral College for the Presidency. (2) India's Prime Minister is the head of government and must hold a Lok Sabha seat; the US President is directly elected (via electors) and can't simultaneously serve in Congress. (3) India has a multi-party system; the US has a dominant two-party system. (4) India's election is managed by an independent ECI; US elections are managed at the state level."
+        }
+      ]
+    }
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "question": "How many electoral votes does a US presidential candidate need to win?",
+      "options": ["269", "270", "271", "280"],
+      "answer": 1,
+      "explanation": "A US presidential candidate needs exactly 270 out of 538 total electoral votes to win the presidency.",
+      "country": "USA"
+    },
+    {
+      "id": "q2",
+      "question": "What does EVM stand for in Indian elections?",
+      "options": ["Electronic Voting Module", "Electronic Voting Machine", "Electoral Votes Method", "Electronic Verification Machine"],
+      "answer": 1,
+      "explanation": "EVM stands for Electronic Voting Machine — the device used to cast votes in Indian elections since the 1990s.",
+      "country": "India"
+    },
+    {
+      "id": "q3",
+      "question": "How many seats does a party need to form a majority government in India's Lok Sabha?",
+      "options": ["243", "261", "272", "300"],
+      "answer": 2,
+      "explanation": "The Lok Sabha has 543 seats, so a party needs 272 (simple majority) to form a majority government.",
+      "country": "India"
+    },
+    {
+      "id": "q4",
+      "question": "The Model Code of Conduct in India activates when?",
+      "options": ["One month before voting", "When election dates are announced", "On nomination filing day", "24 hours before voting"],
+      "answer": 1,
+      "explanation": "The MCC comes into force the moment the Election Commission of India announces the election schedule.",
+      "country": "India"
+    },
+    {
+      "id": "q5",
+      "question": "On what day of the week is the US Presidential Election always held?",
+      "options": ["Monday", "Wednesday", "Tuesday", "Saturday"],
+      "answer": 2,
+      "explanation": "US Presidential Elections are always held on the first Tuesday after the first Monday in November.",
+      "country": "USA"
+    },
+    {
+      "id": "q6",
+      "question": "What voting system does India use for Lok Sabha elections?",
+      "options": ["Proportional Representation", "Ranked Choice Voting", "First Past the Post (FPTP)", "Two-Round System"],
+      "answer": 2,
+      "explanation": "India uses First Past the Post (FPTP) — the candidate with the most votes in a constituency wins, regardless of whether they have an absolute majority.",
+      "country": "India"
+    },
+    {
+      "id": "q7",
+      "question": "What does VVPAT stand for?",
+      "options": ["Verified Vote Paper Audit Track", "Voter Verifiable Paper Audit Trail", "Voting Verification Paper and Tracking", "Validated Voter Paper Audit Tool"],
+      "answer": 1,
+      "explanation": "VVPAT stands for Voter Verifiable Paper Audit Trail — it prints a paper slip to verify the voter's choice for 7 seconds.",
+      "country": "India"
+    },
+    {
+      "id": "q8",
+      "question": "How many total electors are in the US Electoral College?",
+      "options": ["435", "500", "538", "535"],
+      "answer": 2,
+      "explanation": "There are 538 total electoral votes — 435 (House) + 100 (Senate) + 3 (Washington D.C., added by the 23rd Amendment).",
+      "country": "USA"
+    }
+  ]
+}
