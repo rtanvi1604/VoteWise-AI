@@ -150,7 +150,7 @@ electionguide/
 
 **Tanvi R Vernekar**  
 B.Tech AI & Data Science, Panimalar Engineering College  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | [GitHub](https://github.com/rtanvi1604/VoteWise-AI.git)
 
 ---
 
