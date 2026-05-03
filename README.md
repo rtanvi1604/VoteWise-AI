@@ -1,4 +1,4 @@
-# 🗳️ ElectionGuide — Demystifying Democracy
+# 🗳️ VoteWise AI — Demystifying Democracy
 
 > **PromptWars Virtual by Google & Hack2Skill — Challenge 2**
 > An interactive AI assistant that helps users understand election processes in India and the USA.
