@@ -159,7 +159,7 @@ electionguide/
 ![Quiz1](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FQuiz1.png)
 
 ![Quiz2](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FQuiz2.png)
--Quiz score to know about your election knowledge with insights
+- Quiz score to know about your election knowledge
 
 ### India vs USA Election System 
 ![Comparison1](https://github.com/rtanvi1604/VoteWise-AI/blob/main/Screenshots%2FComparison1.png)
